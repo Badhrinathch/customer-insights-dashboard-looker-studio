@@ -1,2 +1,46 @@
-# customer-insights-dashboard-looker-studio
-Interactive web analytics dashboard created in Google Looker Studio using Google Analytics data to visualize traffic trends and user engagement metrics.
+# Web Analytics Dashboard using Google Looker Studio
+
+## Project Overview
+
+This project presents an interactive web analytics dashboard created using Google Looker Studio and Google Analytics data. The dashboard helps analyze website traffic patterns, user engagement, and performance trends through visual reports.
+
+## Dashboard Features
+
+- Interactive date range controls
+- Website traffic trend analysis
+- User activity monitoring
+- Custom dashboard layout
+- Dynamic data visualization
+- Google Analytics integration
+
+## Tools & Technologies
+
+- Google Looker Studio
+- Google Analytics
+- Google Cloud Platform
+- Data Visualization
+
+## Project Workflow
+
+1. Connected Google Analytics as the data source.
+2. Imported analytics data into Looker Studio.
+3. Created time-series visualizations.
+4. Added filters and controls.
+5. Customized themes and layouts.
+6. Published the dashboard for reporting.
+
+## Dashboard Preview
+
+_Add screenshot here._
+
+## Skills Demonstrated
+
+- Data Visualization
+- Dashboard Design
+- Business Intelligence Reporting
+- Web Analytics
+- Data Storytelling
+
+## Author
+
+Badhrinath C
