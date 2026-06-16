@@ -31,7 +31,8 @@ This project presents an interactive web analytics dashboard created using Googl
 
 ## Dashboard Preview
 
-_Add screenshot here._
+![Dashboard Screenshot](1772191562289.jpg)
+
 
 ## Skills Demonstrated
 
@@ -40,7 +41,3 @@ _Add screenshot here._
 - Business Intelligence Reporting
 - Web Analytics
 - Data Storytelling
-
-## Author
-
-Badhrinath C
